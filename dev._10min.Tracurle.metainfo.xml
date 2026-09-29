@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>dev.tenmin.Tracurle</id>
+  <id>dev._10min.Tracurle</id>
   <name>Tracurle</name>
   <summary>Stunningly simple and beautiful. The ultimate music player to enjoy your local audio collection.</summary>
   <summary xml:lang="ja">圧倒的にシンプルで美しい。あなたのローカル音源を最高に楽しめる音楽プレイヤー。</summary>
@@ -190,7 +190,7 @@
     <p xml:lang="ko">크로스 플랫폼: Windows, macOS, Linux 완벽 지원.</p>
   </description>
 
-  <launchable type="desktop-id">dev.tenmin.Tracurle.desktop</launchable>
+  <launchable type="desktop-id">dev._10min.Tracurle.desktop</launchable>
   
   <url type="homepage">https://tracurle.com</url>
   <url type="donation">https://www.buymeacoffee.com/10mindev</url>
