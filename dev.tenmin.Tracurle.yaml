@@ -1,4 +1,4 @@
-app-id: dev.10min.Tracurle
+app-id: dev.tenmin.Tracurle
 runtime: org.freedesktop.Platform
 runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
@@ -12,9 +12,9 @@ modules:
   - name: tracurle
     buildsystem: simple
     build-commands:
-      - install -D dev.10min.Tracurle.desktop /app/share/applications/dev.10min.Tracurle.desktop
-      - install -D dev.10min.Tracurle.metainfo.xml /app/share/metainfo/dev.10min.Tracurle.metainfo.xml
-      - install -D dev.10min.Tracurle.png /app/share/icons/hicolor/512x512/apps/dev.10min.Tracurle.png
+      - install -D dev.tenmin.Tracurle.desktop /app/share/applications/dev.tenmin.Tracurle.desktop
+      - install -D dev.tenmin.Tracurle.metainfo.xml /app/share/metainfo/dev.tenmin.Tracurle.metainfo.xml
+      - install -D dev.tenmin.Tracurle.png /app/share/icons/hicolor/512x512/apps/dev.tenmin.Tracurle.png
       - install -D apply_extra /app/bin/apply_extra
     sources:
       - type: extra-data
@@ -34,8 +34,8 @@ modules:
           rm tracurle-linux-x64.tar.gz
 
       - type: file
-        path: dev.10min.Tracurle.desktop
+        path: dev.tenmin.Tracurle.desktop
       - type: file
-        path: dev.10min.Tracurle.metainfo.xml
+        path: dev.tenmin.Tracurle.metainfo.xml
       - type: file
-        path: dev.10min.Tracurle.png
+        path: dev.tenmin.Tracurle.png
