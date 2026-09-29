@@ -20,8 +20,8 @@ modules:
       - type: extra-data
         filename: tracurle-linux-x64.tar.gz
         url: https://github.com/10min-dev/apps/releases/download/tracurle-v1.0.2/tracurle-linux-x64.tar.gz
-        sha256: B940A4833DE87CD2B86535AD569356A4BD89D01C2791DAF55D946EEBD16498DD
-        size: 77007539
+        sha256: ACBBB081CE085710D6D4B4D69F2B560A202186DCF59DD4D531A8859B1735E4D1
+        size: 77195973
 
       - type: file
         path: apply_extra
